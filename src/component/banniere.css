@@ -1,0 +1,44 @@
+.simplon{
+    height: 500px;
+    background-color: #ce0033;
+    display: flex;
+    margin-top: 1%;
+}
+
+.title{
+    padding-top: 3%;
+    margin-left: 10%;
+    color:aliceblue;
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.paragraphe{
+    margin-left: 10%;
+    color:aliceblue;
+    font-size: 15px;
+    flex-grow: 1;
+    margin-right: 5em;
+}
+
+.banniere-droite {
+    width: 525px;
+    object-fit: cover;  
+    object-position: right center;  
+}
+
+.bouton {
+    display: inline-block; 
+    padding: 10px 20px; 
+    background-color: #ffffff; 
+    color: #ce0033; 
+    border: none; 
+    border-radius: 5px; 
+    text-align: center; 
+    text-decoration: none; 
+    cursor: pointer; 
+    margin-left: 10%;
+    margin-top: 50px;
+    text-transform: uppercase;
+    font-weight: 700;
+}

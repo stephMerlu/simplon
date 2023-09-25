@@ -1,0 +1,28 @@
+.navbar-top {
+    display: flex; 
+    align-items: center; 
+    padding: 10px;
+  }
+
+.navbar-top-left{
+  margin-left: 200px;
+}
+
+.navbar-top-right{
+  margin-left: 900px;
+}
+
+.navbar-bottom{
+  display:flex
+}
+
+.navbar-logo img{
+  max-width: 200px;
+  height: auto;
+  margin-left: 200px;
+}
+
+.dropdown{
+  margin-left: 500px;
+  margin-top: 40px;
+}
